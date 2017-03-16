@@ -1,0 +1,7 @@
+.main-body-wraper{
+    display: flex;
+    height: 350px;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}

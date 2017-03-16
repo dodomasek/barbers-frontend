@@ -1,0 +1,16 @@
+.about-page-wraper{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: lightblue;
+  width: 100%;
+  height: 400px;
+}
+.about-page-header{
+  font-size: 150%;
+  padding: 10px;
+}
+.about-page-text{
+  margin: 10px 50px 0 50px ;
+}
