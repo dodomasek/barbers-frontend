@@ -1,14 +1,23 @@
-.main-body-wraper{
-    display: flex;
-    height: 350px;
-    width: 100%;
-    justify-content: center;
-    align-items: center;
+.main-body-wraper {
+  display: flex;
+  height: 350px;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  background-image: url('assets/images/barber-tools.jpg');
+  //background-repeat: no-repeat;
 }
-.main-body-text{
-  border: 2px solid black;
+
+.main-body-text {
+  background-color: black;
+  display: flex;
+  align-content: center;
+  border: 4px solid white;
   padding: 20px;
   font-size: 200%;
   font-style: oblique;
-
+  color: white;
+  opacity: 0.7;
+  user-select: none;
 }
+
